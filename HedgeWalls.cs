@@ -76,7 +76,7 @@ namespace HedgeWalls
 
             BuildPiece Hedge_Inverted_Angle = new("odinhedges", "Hedge_Inverted_Angle");
             Hedge_Inverted_Angle.Name.English("Hedge_Inverted_Angle");
-            Hedge_Inverted_Angle.Description.English("A hedge angle");
+            Hedge_Inverted_Angle.Description.English("An inverted hedge angle");
             Hedge_Inverted_Angle.RequiredItems.Add("Wood", 1, true);
 
 
